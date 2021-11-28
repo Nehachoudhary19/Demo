@@ -76,6 +76,7 @@ a{
 }
 
 .content{
+  padding-top:10%;
   display: flex;
   width:90%;
   justify-content: space-around;
