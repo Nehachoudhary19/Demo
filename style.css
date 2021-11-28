@@ -130,11 +130,12 @@ a{
 .r_btn:hover{
   background-color: #fb74a4;
   transition:all ease 0.2s;
+  text-decoration:bold;
 }
 
 .menu li a:hover{
-  background-color: #23cdaf;
-  color:white;
+  background-color: white;
+  color:black;
   box-shadow: 5px 10px 30px rgba(24,139,119,0.2);
   transition:all ease 0.2s;
 
@@ -199,6 +200,9 @@ a{
     padding-top: 1%;
 }
 
+.services figure{
+  display:flex;
+}
 
 
 
