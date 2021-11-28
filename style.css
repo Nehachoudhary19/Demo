@@ -143,14 +143,26 @@ a{
 
 .container .div1{
   padding-top:10%;
-  box-shadow: 5px 10px 30px rgba(0,0,0,0.10);
+  box-shadow: 5px 10px 30px rgb(0 0 0 / 20%);
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 6%;
 }
 
 .container .div1 h1{
   text-align:center;
 }
 
+.container .div1 .h3{
+    margin-top: -11%;
+    margin-left: 23%;
+    margin-bottom: 3%;
+}
 
+.container .div1 img {
+    padding-left: 8%;
+    padding-bottom: 2%;
+}
 
 .services h2{
   color:#c30d4c;
