@@ -170,6 +170,11 @@ a{
   text-align:center;
 }
 
+.services .flex-container{
+  display:flex;
+}
+
+
 .services h1{
   color:black;
   text-align:center;
