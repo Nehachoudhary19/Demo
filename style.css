@@ -205,11 +205,15 @@ a{
 }
 
 .seo{
-  padding-top:10%;
+  padding-top:4%;
   box-shadow: 5px 10px 30px rgb(0 0 0 / 20%);
-  margin-left: 20%;
-  margin-right: 20%;
-  margin-top: 6%;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: -11%;
+  display:flex;
+  padding-left: 4%;
+  padding-right: 4%;
+  line-height: 25px;
 }
 
 .seo .image2{
@@ -222,6 +226,10 @@ a{
   height:100%;
   object-fit: contain;
   padding-right:5%;
+}
+
+.seo .text h2 {
+    padding-bottom: 2%;
 }
 
 .n_btn{
@@ -243,6 +251,7 @@ a{
   margin-left: 20%;
   margin-right: 20%;
   margin-top: 6%;
+  display:flex;
 }
 
 .aboutus .image3{
