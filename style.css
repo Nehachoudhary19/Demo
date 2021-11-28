@@ -190,9 +190,13 @@ a{
     /* padding-left: 35%; */
     padding-top: 1%;
     text-align: center;
+    line-height: 30px;
 }
 
-
+.services img {
+    padding-left: 8%;
+    padding-bottom: 2%;
+}
 
 
 
