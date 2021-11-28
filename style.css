@@ -172,6 +172,9 @@ a{
 
 .services .flex-container{
   display:flex;
+  padding-top: 3%;
+  padding-left: 17%;
+  padding-bottom: 7%;
 }
 
 
