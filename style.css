@@ -88,6 +88,24 @@ a{
   margin-left:50%;
   margin-right:50%;
   transform: translate(-50%, -50%);
+  top: 156px;
+  left: 59px;
+  width: 230px;
+  height: 180px;
+  border-radius: 100%;
+  clip: rect(70px, auto, auto, 45px);
+  transform:rotate(-90deg);
+}
+
+.content:before {
+  content: '';
+  position: absolute;
+  top: -15px;
+  left: -62px;
+  width: 200px;
+  height: 200px;
+  background: white;
+  border-radius: 100%;
 }
 
 .main-text{
@@ -97,10 +115,12 @@ a{
 }
 
 .main-text h1{
+  padding-top:2%;
   font-size:3.3em;
   color:white;
   margin:0px 0px 0px 10px;
   line-height: 60px;
+  padding
 }
 
 .main-text p{
@@ -110,6 +130,7 @@ a{
 
 .r_btn{
   margin-left:5%;
+  margin-top:2%;
   width:190px;
   height:44px;
   display: flex;
