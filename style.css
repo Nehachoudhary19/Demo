@@ -88,7 +88,7 @@ a{
 }
 
 .main-text{
-  width:500px;
+  width:800px;
 }
 
 .main-text h1{
@@ -99,22 +99,22 @@ a{
 }
 
 .main-text p{
-  color: grey;
+  color: white;
 }
 
-.resume_btn{
+.r_btn{
   width:190px;
   height:44px;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 20px;
+  border-radius: 5px;
   box-shadow: 5px 10px 30px rgba(24,139,119,0.2);
 
 }
 
-.resume_btn:hover{
-  background-color: #23cdaf;
+.r_btn:hover{
+  background-color: #fb74a4;
   transition:all ease 0.2s;
 }
 
