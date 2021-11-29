@@ -409,7 +409,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   padding-left: 4%;
   padding-right: 4%;
   line-height: 30px;
-  margin-bottom: 20%
+  margin-bottom: 15%
 }
 
 .test h2 {
@@ -493,6 +493,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 
 .blog p{
   line-height: 25px;
+  text-align: center;
 }
 
 .container3 .div4{
