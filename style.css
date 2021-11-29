@@ -399,14 +399,21 @@ a{
 .test img{
   width:100%;
   align:center;
+  background: rgb(0, 0, 0);
 }
 
 .test .centered{
- position: absolute;
-  top: 50%;
-  left: 50%;
+ position: relative;
+  top: 0%;
+  text-align:center;
   transform: translate(-50%, -50%);
 }
+
+.test .centered p{
+  text-align:center;
+  line-height: 25px;
+}
+
 
 .blog{
   padding-top:5%;
@@ -417,3 +424,9 @@ a{
   padding-right: 4%;
   line-height: 25px;
 }
+
+.blog p{
+  line-height: 25px;
+}
+
+
