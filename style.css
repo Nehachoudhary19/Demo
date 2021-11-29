@@ -33,6 +33,27 @@ box-shadow: 5px 10px 30px rgba(0,0,0,0.04);
 z-index: 2;
 }
 
+#hamnav {
+  width: 100%;
+  background: #000;
+}
+
+/* (B) HORIZONTAL MENU ITEMS */
+#hamitems { display: flex; }
+#hamitems a {
+  flex-grow: 1;
+  flex-basis: 0;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+#hamitems a:hover { background: white;color:black; }
+
+/* (C) HIDE HAMBURGER */
+#hamnav label, #hamburger { display: none; }
+
+
 .logo img{
   height:45px;
 }
@@ -555,7 +576,6 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     font-size: 1.2em;
     padding: 10px;
   }
-
 
   #hamitems { display: none; }
   #hamnav input:checked ~ #hamitems { display: block; }
