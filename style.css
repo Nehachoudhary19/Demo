@@ -304,12 +304,12 @@ a{
   padding-right:15%;
 }
 
-.container .flex-container div{
+.container2 .flex-container div{
   margin-left: inherit;
 }
 
 .contactus{
- padding-top:4%;
+  padding-top:4%;
   margin-left: 8%;
   margin-right: 8%;
   margin-top: 3%;
@@ -319,7 +319,26 @@ a{
   line-height: 25px;
 }
 
-.contactus .text h2 {
+.contactus .text1 h2 {
     padding-bottom: 2%;
 }
+
+.contactus .text1 h3 {
+    padding-bottom: 2%;
+}
+
+
+.contactus .text2{
+  display:flex;
+}
+
+.contactus .text2 .d1{
+  width:50%;
+  height:50%;
+  margin-left:3%;
+  margin-right:3%;
+}
+
+
+
 
