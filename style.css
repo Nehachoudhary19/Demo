@@ -512,7 +512,13 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     padding-top: 0%;
 }
 
+.footer p {
+    line-height: 25px;
+}
 
+.footer h3 {
+    font: message-box;
+}
 
 
 
