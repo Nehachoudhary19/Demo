@@ -386,6 +386,18 @@ a{
   margin-right:3%;
 }
 
+.test{
+  padding-top:5%;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 3%;
+  padding-left: 4%;
+  padding-right: 4%;
+  line-height: 25px;
+}
 
+.test img{
+  width:100%;
+}
 
 
