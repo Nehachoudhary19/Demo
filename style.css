@@ -279,7 +279,7 @@ a{
 
 .container2 {
   padding-top:10%;
-  box-shadow: 5px 10px 30px rgb(0 0 0 / 20%);
+  box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   margin-left: 9%;
   margin-right: 9%;
   margin-top: 6%;
@@ -294,9 +294,10 @@ a{
 
 .container2 .flex-container{
   display:flex;
-  padding-top: 3%;
-  padding-left: 17%;
+  padding-top: 0%;
+  padding-left: 0%;
   padding-bottom: 7%;
+  padding-right:15%;
 }
 
 .container .flex-container div{
