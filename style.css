@@ -115,7 +115,7 @@ a{
   left: 0;
   top: 27px;
 }
-<div id="wave"></div>
+
 
 .main-text{
   padding-left: 5%;
@@ -312,7 +312,7 @@ a{
 }
 
 .container2 {
-  padding-top:10%;
+  padding-top:6%;
   box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   margin-left: 9%;
   margin-right: 9%;
@@ -335,7 +335,7 @@ a{
 }
 
 .container2 .flex-container div{
-  margin-left: inherit;
+  margin-left: auto;
 }
 
 .contactus{
