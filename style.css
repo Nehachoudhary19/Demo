@@ -408,4 +408,12 @@ a{
   transform: translate(-50%, -50%);
 }
 
-
+.blog{
+  padding-top:5%;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 3%;
+  padding-left: 4%;
+  padding-right: 4%;
+  line-height: 25px;
+}
