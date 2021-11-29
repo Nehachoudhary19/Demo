@@ -283,6 +283,7 @@ a{
   margin-left: 9%;
   margin-right: 9%;
   margin-top: 6%;
+  margin-bottom: 10%;
 }
 
 .container2 .flex-container h2{
@@ -297,3 +298,10 @@ a{
   padding-left: 17%;
   padding-bottom: 7%;
 }
+
+.container .flex-container div{
+  margin-left: inherit;
+}
+
+
+
