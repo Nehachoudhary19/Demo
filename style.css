@@ -539,25 +539,24 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 }
 
 @media screen and (max-width: 768px){
-  /* (A) BREAK INTO VERTICAL MENU */
   #hamitems a {
     box-sizing: border-box;
     display: block;
     width: 100%;
-    border-top: 1px solid #333;
+    border-top: 1px solid #c30d4c;
   }
  
-  /* (B) SHOW HAMBURGER ICON */
+
   #hamnav label { 
     display: inline-block; 
     color: white;
-    background: #a02620;
+    background: #c30d4c;
     font-style: normal;
     font-size: 1.2em;
     padding: 10px;
   }
 
-  /* (C) TOGGLE SHOW/HIDE MENU */
+
   #hamitems { display: none; }
   #hamnav input:checked ~ #hamitems { display: block; }
 }
