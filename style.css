@@ -437,6 +437,14 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   transform: translate(-50%, -50%);
 }
 
+.test .left{
+ position: relative;
+  margin-top: -9%;
+  left:50%;
+  text-align:center;
+  transform: translate(-50%, -50%);
+}
+
 .test .centered p{
   text-align:center;
   line-height: 25px;
