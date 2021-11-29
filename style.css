@@ -343,6 +343,9 @@ a{
     padding-bottom: 2%;
 }
 
+.contactus .text1 p {
+    width: 80%;
+}
 
 .contactus .text2{
   display:flex;
