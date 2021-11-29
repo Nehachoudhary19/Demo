@@ -90,25 +90,20 @@ a{
   margin-left:50%;
   margin-right:50%;
   transform: translate(-50%, -50%);
-  
-  
-}
-
-.wave{
   display: inline-block;
   position: relative;
   padding-bottom: 100%;
   vertical-align: middle;
   overflow: hidden;
+  
 }
 
-.wave svg {
+svg {
   display: inline-block;
   position: absolute;
   top: 0;
   left: 0;
 }
-
 
 
 
