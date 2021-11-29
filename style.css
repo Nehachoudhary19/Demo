@@ -355,48 +355,52 @@ a{
  box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     width: 80%;
     height: 50%;
-    margin-left: 6%;
+    margin-left: 14%;
     margin-right: 3%;
     padding-left: 8%;
     padding-right: 5%;
     line-height: 16px;
     padding-top: 10%;
+    margin-top: -10%;
 }
 
 .contactus .text2 .d2{
  box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     width: 80%;
     height: 50%;
-    margin-left: 6%;
+    margin-left: 15%;
     margin-right: 3%;
     padding-left: 8%;
     padding-right: 5%;
     line-height: 16px;
     padding-top: 10%;
+    margin-top: 6%;
 }
 
 .contactus .text2 .d3{
  box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     width: 80%;
     height: 50%;
-    margin-left: 6%;
+    margin-left: 2%;
     margin-right: 3%;
     padding-left: 8%;
     padding-right: 5%;
     line-height: 16px;
     padding-top: 10%;
+    margin-top: 0%;
 }
 
 .contactus .text2 .d4{
 box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     width: 80%;
     height: 50%;
-    margin-left: 6%;
+    margin-left: 3%;
     margin-right: 3%;
     padding-left: 8%;
     padding-right: 5%;
     line-height: 16px;
     padding-top: 10%;
+    margin-top: 6%;
 }
 
 .test{
