@@ -431,27 +431,43 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 }
 
 .test .centered{
- position: relative;
-  margin-top: -9%;
-  left:50%;
-  text-align:center;
-  transform: translate(-50%, -50%);
+    position: relative;
+    margin-top: -9%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -10%);
 }
 
 .test .left{
- position: relative;
-  margin-top: -9%;
-  left:50%;
-  text-align:center;
-  transform: translate(-50%, -50%);
+    position: relative;
+    margin-top: -7%;
+    left: 26%;
+    text-align: center;
+    transform: translate(-50%, -92%);
+}
+
+.test .left2{
+    position: relative;
+    margin-top: -7%;
+    left: 26%;
+    text-align: center;
+    transform: translate(-50%, -60%);
 }
 
 .test .right{
- position: relative;
-  margin-top: -19%;
-  left:50%;
-  text-align:right;
-  transform: translate(-50%, -50%);
+    position: relative;
+    margin-top: -19%;
+    left: 50%;
+    text-align: right;
+    transform: translate(-59%, -133%);
+}
+
+.test .right2{
+    position: relative;
+    margin-top: -19%;
+    left: 50%;
+    text-align: right;
+    transform: translate(-79%, -133%);
 }
 
 .test .centered p{
