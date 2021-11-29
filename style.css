@@ -67,12 +67,12 @@ a{
   border-bottom: 2px solid #39bfbd;
 }
 
-.image{
+.content .image{
   width:500px;
   height: 500px;
 }
 
-.image img{
+.content .image img{
   width:100%;
   height:100%;
   object-fit: contain;
@@ -80,6 +80,7 @@ a{
 }
 
 .content{
+  color:white;
   padding-top:50%;
   display: flex;
   width:100%;
