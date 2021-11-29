@@ -35,7 +35,9 @@ z-index: 2;
 
 #hamnav {
   width: 100%;
-  background: #000;
+  background:#c30d4c;
+  padding-top:1%;
+padding-bottom:1%;
 }
 
 /* (B) HORIZONTAL MENU ITEMS */
