@@ -423,6 +423,15 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     text-align: center;
 }
 
+.test .left img{
+  width:25%;
+}
+
+.test .right img
+{
+  width:25%;
+}
+
 .test img{
   width:100%;
   align:center;
