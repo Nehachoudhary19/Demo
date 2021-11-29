@@ -80,6 +80,7 @@ a{
 }
 
 .content{
+  height: 90%;
   padding-top:50%;
   display: flex;
   width:100%;
@@ -93,27 +94,8 @@ a{
 }
 
 
-#cont :before {
-  content: "";
-  display: block;
-  position: absolute;
-  border-radius: 100% 50%;
-  width: 340px;
-  height: 80px;
-  background-color: white;
-  right: -5px;
-  top: 40px;
-}
-#cont :after {
-  content: "";
-  display: block;
-  position: absolute;
-  border-radius: 100% 50%;
-  width: 300px;
-  height: 70px;
-  background-color: #c30d4c;
-  left: 0;
-  top: 27px;
+svg .waves {
+    margin-top: 25%;
 }
 
 
