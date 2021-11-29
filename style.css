@@ -199,6 +199,14 @@ a{
   padding-bottom: 7%;
 }
 
+.services .flex-container figcaption{
+  margin-top: 24%;
+  font-weight: bold;
+}
+
+.services .flex-container img{
+  width:100%;
+}
 
 .services h1{
   color:black;
