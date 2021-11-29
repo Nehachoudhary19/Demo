@@ -343,8 +343,8 @@ a{
     padding-bottom: 2%;
 }
 
-.contactus .text1 p {
-    width: 80%;
+.contactus .text1  {
+    width: 100%;
 }
 
 .contactus .text2{
@@ -353,46 +353,50 @@ a{
 
 .contactus .text2 .d1{
  box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
-    width: 151%;
-    height: 53%;
-    margin-left: 3%;
+    width: 80%;
+    height: 50%;
+    margin-left: 6%;
     margin-right: 3%;
-    padding-left: 5%;
+    padding-left: 8%;
     padding-right: 5%;
     line-height: 16px;
+    padding-top: 10%;
 }
 
 .contactus .text2 .d2{
  box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
-    width: 151%;
-    height: 53%;
-    margin-left: 3%;
+    width: 80%;
+    height: 50%;
+    margin-left: 6%;
     margin-right: 3%;
-    padding-left: 5%;
+    padding-left: 8%;
     padding-right: 5%;
     line-height: 16px;
+    padding-top: 10%;
 }
 
 .contactus .text2 .d3{
  box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
-    width: 151%;
-    height: 53%;
-    margin-left: 3%;
+    width: 80%;
+    height: 50%;
+    margin-left: 6%;
     margin-right: 3%;
-    padding-left: 5%;
+    padding-left: 8%;
     padding-right: 5%;
     line-height: 16px;
+    padding-top: 10%;
 }
 
 .contactus .text2 .d4{
 box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
-    width: 151%;
-    height: 53%;
-    margin-left: 3%;
+    width: 80%;
+    height: 50%;
+    margin-left: 6%;
     margin-right: 3%;
-    padding-left: 5%;
+    padding-left: 8%;
     padding-right: 5%;
     line-height: 16px;
+    padding-top: 10%;
 }
 
 .test{
