@@ -80,7 +80,6 @@ a{
 }
 
 .content{
-  color:white;
   padding-top:50%;
   display: flex;
   width:100%;
@@ -95,9 +94,8 @@ a{
 
 
 .main-text{
- 
   padding-left: 5%;
-  text-align: -webkit-auto;
+  text-align:auto;
 }
 
 .main-text h1{
