@@ -60,13 +60,6 @@ a{
   text-decoration: none;
 }
 
-.hey{
-  color:39bfbd;
-  font-weight: 500;
-  font-size:0.9em;
-  border-bottom: 2px solid #39bfbd;
-}
-
 .content .image{
   width:500px;
   height: 500px;
@@ -241,10 +234,15 @@ a{
 }
 
 .seo .image2 img{
- width: 129%;
+  width: 129%;
   height:100%;
   object-fit: contain;
   padding-right:5%;
+}
+
+.seo .text{
+   margin-left: 10%;
+    margin-top: 4%;
 }
 
 .seo .text h2 {
