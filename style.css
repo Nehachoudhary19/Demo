@@ -405,6 +405,7 @@ a{
 .test .centered{
  position: relative;
   top: 0%;
+  left:50%;
   text-align:center;
   transform: translate(-50%, -50%);
 }
@@ -429,4 +430,10 @@ a{
   line-height: 25px;
 }
 
-
+.container3 .div4{
+  padding-top:5%;
+  box-shadow: 5px 10px 30px rgb(0 0 0 / 20%);
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 6%;
+}
