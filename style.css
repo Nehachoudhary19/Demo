@@ -450,3 +450,14 @@ a{
   margin-right: 25%;
   margin-top: 6%;
 }
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background:black;
+   color: white;
+   display:flex;
+}
+
