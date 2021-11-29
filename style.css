@@ -636,6 +636,49 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   padding-right:0%;
 }
   
+  
+  .container2{
+    display:block;
+    font-size:50%;
+  }
+  
+ 
+
+.contactus .text1 h3 {
+    display:none;
+}
+
+  .contactus .text2 .d1{
+    display:none;
+  }
+   .contactus .text2 .d2{
+    display:none;
+  }
+   .contactus .text2 .d3{
+    display:none;
+  }
+  
+   .contactus .text2 .d4{
+    display:none;
+  }
+  
+  .contactus .flex-container p{
+    display:none;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 }
 
 
