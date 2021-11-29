@@ -277,6 +277,10 @@ a{
   padding-right:5%;
 }
 
+.about .text h2 {
+    padding-bottom: 2%;
+}
+
 .container2 {
   padding-top:10%;
   box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
@@ -304,5 +308,18 @@ a{
   margin-left: inherit;
 }
 
+.contactus{
+ padding-top:4%;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 3%;
+  display:flex;
+  padding-left: 4%;
+  padding-right: 4%;
+  line-height: 25px;
+}
 
+.contactus .text h2 {
+    padding-bottom: 2%;
+}
 
