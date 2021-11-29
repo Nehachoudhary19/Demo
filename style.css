@@ -276,3 +276,24 @@ a{
   object-fit: contain;
   padding-right:5%;
 }
+
+.container2 {
+  padding-top:10%;
+  box-shadow: 5px 10px 30px rgb(0 0 0 / 20%);
+  margin-left: 9%;
+  margin-right: 9%;
+  margin-top: 6%;
+}
+
+.container2 .flex-container h2{
+  text-align:center;
+  color:#c30d4c;
+  text-shadow:2px 2px 8px;
+}
+
+.container2 .flex-container{
+  display:flex;
+  padding-top: 3%;
+  padding-left: 17%;
+  padding-bottom: 7%;
+}
