@@ -597,7 +597,26 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   padding-right:5%;
 }
   
+ .main-text {
+   margin-top:5%;
+  }
+  
+ .main-text p{
+  display:none;
+}
+  
+  
+  
   
   
 }
+
+
+
+
+
+
+
+
+
 
