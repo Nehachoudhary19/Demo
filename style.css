@@ -744,7 +744,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   display:block;
   }
 
-  .about us p {
+  .aboutus p {
     font-size: smaller;
     line-height: inherit;
 }
@@ -754,7 +754,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
  
  .contactus .text1 #tohide p{
    display:inherit;
-   font-size:smaller;
+   font-size:unset;
   }
   
   .contactus .text1 p{
