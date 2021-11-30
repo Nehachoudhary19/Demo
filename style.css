@@ -586,13 +586,14 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   #hamnav input:checked ~ #hamitems { display: block; }
   
  .content{
-  height: 200%;
-  padding-top: 80%;
-  display: inline-grid;
-   width:100%;
-  justify-content: space-around;
-  background: #c30d4c;
-  align-items: center;
+    height: auto;
+    padding-top: 65%;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    background: #c30d4c;
+    align-items: flex-end;
+    padding-bottom: 9%;
   }
   
   .content .image{
