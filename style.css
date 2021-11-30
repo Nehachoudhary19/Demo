@@ -533,6 +533,10 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   text-align: center;
 }
 
+.blog p #carousel{
+  display:none;
+}
+
 .container3 .div4{
   padding-top:5%;
   padding-left: 12%;
