@@ -631,7 +631,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   text-align:left;
 }
   
-  container .div1 h3 {
+  .container .div1 h3 {
     margin-left: 18%;
   }
   
@@ -691,6 +691,11 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     display: inherit;
   }
   
+  container2 .flex-container div {
+    margin-left: 27%;
+    padding-left: 20%;
+    padding-bottom: 7%;
+}
   
  .aboutus .image3 img {
     width: auto;
