@@ -696,7 +696,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     display: inherit;
   }
   
-  container2 .flex-container div {
+  .container2 .flex-container div {
     margin-left: 27%;
     padding-left: 20%;
     padding-bottom: 7%;
