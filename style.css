@@ -677,7 +677,11 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   display: block;
   }
   
-  .seo .image22 img{
+  .seo .image2{
+    display:none;
+  }
+  
+  .seo .image22 {
   width: auto;
   height:auto;
   object-fit: contain;
