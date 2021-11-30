@@ -543,6 +543,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   margin-right: 25%;
   margin-top: 6%;
   padding-bottom: 5%;
+  margin-bottom: 3%
 }
 
 .footer {
@@ -660,6 +661,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
   .container .div1{
         margin-top: 18%;
+        padding-top:16%;
   }
   
   .container .div1 h3 {
