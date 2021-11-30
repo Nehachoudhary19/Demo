@@ -609,10 +609,11 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   height:100%;
   object-fit: contain;
   padding-right:5%;
+  padding-top:7%;
 }
   
  .main-text {
-   margin-top:5%;
+   margin-top:10%;
   }
   
  .main-text p{
