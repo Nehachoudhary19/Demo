@@ -676,7 +676,10 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     /* padding-right: 10%; */
 }
   .services p{
-    line-height:23px;
+    line-height:15px;
+    padding-left: 17%;
+    padding-top: 1%;
+    text-align: left;
   }
   
   .services .flex-container{
@@ -829,7 +832,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
  .n_btn{
    width: 147px;
-   margin-left: 0%;
+   margin-left: 30%;
   }
   
   
