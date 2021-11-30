@@ -251,7 +251,7 @@ a{
   height: 100%;
 }
 
-.seo .text #image22 {
+.seo .text #image22 img{
   display:none;
 }
 
@@ -684,7 +684,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     display:none;
   }
   
-  .seo .text #image22 {
+  .seo .text #image22 img{
   display: inline-block;
   width: auto;
   height:auto;
