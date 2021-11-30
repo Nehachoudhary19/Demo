@@ -6,7 +6,7 @@
 
 body{
   margin:0px;
-  padding:none;
+  padding:0px;
   font-family: Sans-serif;
   
 }
@@ -611,6 +611,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     background: #c30d4c;
     align-items: flex-end;
     padding-bottom: 9%;
+    transform: translate(-54%, -50%);
   }
   
   .content .image{
@@ -837,6 +838,9 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
   
   .footer {
+    margin-left:0%;
+    margin-right:0%;
+    margin-bottom:0%;
     font-size:x-small;
     line-height:10px;
     padding-bottom:1%;
