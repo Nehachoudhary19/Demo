@@ -683,9 +683,14 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 }
   
   .container2{
-    display:block;
     font-size:x-large;
+    box-shadow:none;
   }
+  
+  .container2 .flex-container {
+    display: inherit;
+  }
+  
   
  .aboutus .image3 img {
     width: auto;
