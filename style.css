@@ -583,7 +583,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
  .content{
   height: 100%;
-  display:block;
+  display:relative;
    width:100%;
   justify-content: space-around;
   background: #c30d4c;
@@ -689,7 +689,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
   
 .container3 .div4{
-  font-size:3%;
+  font-size:7%;
   padding-top:5%;
   padding-left: 12%;
   box-shadow: none;
@@ -699,7 +699,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
   
   .footer {
-    font-size:1%;
+    font-size:4%;
 }
   
   
