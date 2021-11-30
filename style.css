@@ -687,27 +687,52 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
   
   
+  .test h1 {
+    display:none;
+}
+
+.test p {
+    display:none;
+}
+
+
+.test img{
+ display:none;
+}
+  
+  .blog p {
+   display:none;
+}
+  
+  .blog{
+    padding-top: 23%;
+    line-height:22px;
+  }
+  
+ .n_btn{
+   width: 147px;
+  }
   
   
-.container3 .div4{
-  font-size:10%;
-  padding-top:5%;
-  padding-left: 12%;
-  box-shadow: none;
-  margin-left: 15%;
-  margin-right: 15%;
+ .container3 .div4 {
+    font-size: 76%;
+    padding-top: 5%;
+    padding-left: 6%;
+    box-shadow: none;
+    margin-left: 14%;
+    margin-right: 15%;
 }
   
   
   .footer {
-    font-size:4%;
-    line-height:1%;
+    font-size:x-small;
+    line-height:10px;
+    padding-bottom:1%;
 }
   
   
  .footer .address {
-    padding-left: 0%;
-    padding-top: 0%;
+    display:none;
 }
 
   
