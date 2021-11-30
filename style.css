@@ -364,6 +364,8 @@ a{
    display:none;
   }
 
+
+
 .contactus .text1 h2 {
     padding-bottom: 2%;
 }
@@ -749,6 +751,10 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
  .contactus .text1 #tohide p{
    display:inherit;
    font-size:smaller;
+  }
+  
+  .contactus .text1 p{
+    display:none;
   }
   
 .contactus .text1 h3 {
