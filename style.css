@@ -308,6 +308,10 @@ a{
   padding-right:5%;
 }
 
+.aboutus .text #image32 img{
+  display:none;
+}
+
 .aboutus .text{
     margin-left: 10%;
     margin-top: 4%;
@@ -354,6 +358,11 @@ a{
   padding-right: 4%;
   line-height: 25px;
 }
+
+
+ .contactus .text1 #tohide p{
+   display:none;
+  }
 
 .contactus .text1 h2 {
     padding-bottom: 2%;
@@ -694,6 +703,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
 .seo .text h2 {
     padding-bottom: 1%;
+    margin-right: 0%;
 }
   
   .container2{
@@ -712,9 +722,16 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 }
   
  .aboutus .image3 img {
-    width: auto;
-    height: auto;
-    object-fit: contain;
+    display:none;
+}
+  
+   
+  .aboutus .text #image32 img{
+  display: inline-block;
+  width: auto;
+  height:auto;
+  object-fit: contain;
+  padding-right:0%;
 }
   
 .aboutus{
@@ -728,7 +745,11 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
  .aboutus .text h2 {
     padding-bottom: 0%;
 }
-  
+ 
+ .contactus .text1 #tohide p{
+   display:inherit;
+   font-size:smaller;
+  }
   
 .contactus .text1 h3 {
     display:none;
