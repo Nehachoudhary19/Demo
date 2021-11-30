@@ -556,6 +556,10 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     font: message-box;
 }
 
+
+
+
+
 @media screen and (max-width: 768px){
   #hamitems a {
     box-sizing: border-box;
@@ -578,8 +582,9 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   #hamnav input:checked ~ #hamitems { display: block; }
   
  .content{
-   display:relative;
-    width:100%;
+  height: 100%;
+  display:block;
+   width:100%;
   justify-content: space-around;
   background: #c30d4c;
   align-items: center;
@@ -622,7 +627,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 }
   
   .container .div1 h1{
-  text-align:center;
+  text-align:left;
 }
   
   .services {
@@ -631,10 +636,10 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     /* padding-right: 10%; */
 }
   .services .flex-container{
-  display:block;
-    margin-left:5%;
+  display:relative;
+  margin-left:1%;
   padding-top: 3%;
-  padding-left: 5%;
+  padding-left: 2%;
   padding-bottom: 7%;
 }
   
@@ -678,6 +683,31 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
   
   
+  
+  
+  
+  
+  
+.container3 .div4{
+  font-size:3%;
+  padding-top:5%;
+  padding-left: 12%;
+  box-shadow: none;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+  
+  
+  .footer {
+    font-size:1%;
+}
+  
+  
+ .footer .address {
+    padding-left: 5%;
+    padding-top: 0%;
+}
+
   
   
   
