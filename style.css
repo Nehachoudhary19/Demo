@@ -612,7 +612,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     background: #c30d4c;
     align-items: flex-end;
     padding-bottom: 9%;
-    transform: translate(-54%, -50%);
+    transform: translate(-50%, -50%);
   }
   
   .content .image{
