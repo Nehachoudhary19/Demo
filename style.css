@@ -251,6 +251,10 @@ a{
   height: 100%;
 }
 
+.seo .image22 {
+  display:none;
+}
+
 .seo .image2 img{
   width: 129%;
   height:100%;
@@ -671,7 +675,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   display: block;
   }
   
-  .seo .image2 img{
+  .seo .image22 img{
   width: auto;
   height:auto;
   object-fit: contain;
