@@ -647,7 +647,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   }
   
   .services .flex-container{
-  display:relative;
+  display:inherit;
   margin-left:1%;
   padding-top: 3%;
   padding-left: 2%;
