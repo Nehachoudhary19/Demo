@@ -658,6 +658,10 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   text-align:left;
 }
   
+  .container .div1{
+        margin-top: 18%;
+  }
+  
   .container .div1 h3 {
     margin-left: 18%;
   }
