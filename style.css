@@ -178,7 +178,7 @@ a{
 }
 
 .container .div1 img {
-    padding-left: 10%;
+    padding-left: 16%;
     padding-bottom: 2%;
 }
 
@@ -684,6 +684,9 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     margin-left: 18%;
   }
   
+  .container .div1 img {
+    padding-left: 20%;
+  }
   
   .services {
     
@@ -821,10 +824,12 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   display:inherit;
   margin-left:1%;
   margin-right:1%;
-  width: 97%;
-  height: auto;
 }
 
+  #testahide img {
+    width: 97%;
+    height: auto;
+}
   
   
   
