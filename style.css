@@ -537,6 +537,8 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 
  .blog #bigcaro img{
     display:inherit;
+    width: 100%;
+    height: auto;
   }
   
   .blog #smallcaro img{
@@ -846,6 +848,8 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
   .blog #smallcaro img{
     display:inherit;
+    width: 100%;
+    height: auto;
   }
   
  .n_btn{
