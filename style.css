@@ -447,7 +447,11 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   margin-bottom: 15%
 }
 
-#testahide{
+#testahide h2{
+  display:none;
+}
+
+#testahide img{
   display:none;
 }
 
@@ -817,6 +821,8 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   display:inherit;
   margin-left:1%;
   margin-right:1%;
+  width: 97%;
+  height: auto;
 }
 
   
