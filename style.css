@@ -535,7 +535,14 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   text-align: center;
 }
 
-
+ .blog #bigcaro img{
+    display:inherit;
+  }
+  
+  .blog #smallcaro img{
+    display:none;
+  }
+  
 
 .container3 .div4{
   padding-top:5%;
@@ -582,53 +589,6 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 
 
 
-
-@media screen and (max-width: 375px){
-  #hamitems a {
-    box-sizing: border-box;
-    display: block;
-    width: 100%;
-    border-top: 1px solid #c30d4c;
-  }
- 
-
-  #hamnav label { 
-    display: inline-block; 
-    color: white;
-    background: #c30d4c;
-    font-style: normal;
-    font-size: 1.2em;
-    padding: 10px;
-  }
-
-  #hamitems { display: none; }
-  #hamnav input:checked ~ #hamitems { display: block; }
-  
- .content{
-    height: auto;
-    padding-top: 65%;
-    display: flex;
-    width: 100%;
-    justify-content: space-around;
-    background: #c30d4c;
-    align-items: flex-end;
-    padding-bottom: 9%;
-    transform: translate(-50%, -50%);
-  }
-  
-  .content .image{
-  width:250px;
-  height: 250px;
-}
-
-  .main-text h1{
-  padding-top:4%;
-  font-size:1.3em;
-  color:white;
-  margin:0px 0px 0px 10px;
-  line-height: 30px;
-}
-}
 
 
 
@@ -878,6 +838,14 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   .blog{
     padding-top: 23%;
     line-height:22px;
+  }
+  
+  .blog #bigcaro img{
+    display:none;
+  }
+  
+  .blog #smallcaro img{
+    display:inherit;
   }
   
  .n_btn{
