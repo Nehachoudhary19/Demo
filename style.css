@@ -653,14 +653,15 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 
   .main-text h1{
   padding-top:20vh;
-  font-size:7vw;
+  font-size:5vw;
   color:white;
   margin:0px 0px 0px 10px;
-  line-height: 30px;
+  line-height: 6vw;
 }
   
  .r_btn{
-   width:120px;
+  width: 115px;
+    height: 40px
   }
   
 .content .image img{
