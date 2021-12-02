@@ -108,8 +108,8 @@ a{
   background: #c30d4c;
   align-items: center;
   position:absolute;
-margin-left: 50vw;
-    margin-right: 55vw;
+  margin-left: 50%;
+  margin-right: 100%;
   transform: translate(-50%, -50%);
 }
 
