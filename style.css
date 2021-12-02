@@ -13,6 +13,9 @@ body{
   height: 100%;
 }
 
+
+@media only screen and (min-width: 1200px){
+
 #main{
   width:100%;
   position: relative;
@@ -593,7 +596,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     font: message-box;
 }
 
-
+}
 
 @media only screen and (max-width: 600px)
   {
@@ -616,7 +619,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 
 
 
-@media screen and (max-width: 768px){
+@media screen and (min-width: 768px){
   #hamitems a {
     box-sizing: border-box;
     display: block;
