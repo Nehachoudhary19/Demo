@@ -606,6 +606,13 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 
 
 @media screen and (max-width: 768px){
+  
+  body{
+    width: 150vw;
+    height: 100vh;
+  }
+  
+  
   #hamitems a {
     box-sizing: border-box;
     display: block;
