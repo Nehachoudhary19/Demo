@@ -595,6 +595,24 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 
 
 
+@media only screen and (max-width: 600px)
+  {
+     .content{
+    height: auto;
+    padding-top: 65%;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    background: #c30d4c;
+    align-items: flex-end;
+    padding-bottom: 9%;
+    transform: translate(-50%, -50%);
+  }
+  
+}
+
+
+
 
 
 
