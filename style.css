@@ -116,7 +116,7 @@ margin-left: 50vw;
 
 
 .main-text{
-  padding-left: 5%;
+  padding-left: 5vw;
   text-align:auto;
 }
 
@@ -482,7 +482,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 
 .test .centered{
     position: relative;
-    margin-top: -9%;
+    margin-top: -11vh;
     left: 50%;
     text-align: center;
     transform: translate(-50%, 90%);
