@@ -571,7 +571,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
    position: relative;
     padding-left: 10%;
     padding-bottom: 2%;
-    width: 100%;
+    width: 150vw;
     background: black;
     color: white;
     display: flex;
