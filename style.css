@@ -644,7 +644,7 @@ color:white;
   
   
   #hamitems { display: none; }
-  #hamnav input:checked ~ #hamitemss { display: block; }
+  #hamnav input:checked ~ #main #hamitemss { display: block; }
   
   
   
