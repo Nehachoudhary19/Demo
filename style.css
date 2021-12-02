@@ -63,10 +63,6 @@ z-index: 2;
   height:45px;
 }
 
-#main #hamitemss{
-  display:none;
-}
-
 
 ul{
   list-style: none;
@@ -644,7 +640,7 @@ color:white;
   
   
   #hamitems { display: none; }
-  #hamnav input:checked ~ #main #hamitemss { display: block; }
+  #hamnav input:checked ~  #hamitems { display: block; }
   
   
   
