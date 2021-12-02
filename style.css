@@ -741,6 +741,8 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   .seo{
   box-shadow: none;
   display: block;
+    margin-left: 0%;
+    margin-right: 0%;
   }
   
   .seo .image2{
@@ -755,9 +757,15 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   padding-right:0%;
 }
   
+  .seo .text p{
+    padding-top: 2vw;
+  }
+  
 .seo .text h2 {
     padding-bottom: 1%;
     margin-right: 0%;
+    margin-left: 0%;
+    font-size: 6vw;
 }
   
   .container2{
@@ -790,15 +798,22 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
 .aboutus{
   display:block;
+  margin-left: 0%;
+    margin-right: 0%;
   }
 
   .aboutus p {
-    font-size: smaller;
+    padding-top: 2vw;
+    font-size: inherit;
     line-height: inherit;
 }
  .aboutus .text h2 {
     padding-bottom: 0%;
+   font-size: 6vw;
 }
+  .aboutus .text h3{
+    font-size: 4vw;
+  }
  
  .contactus .text1 #tohide p{
    display:inherit;
