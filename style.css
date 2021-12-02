@@ -55,19 +55,16 @@ z-index: 2;
 #hamnav label, #hamburger { display: none; }
 
 
+
+
+
+
 .logo img{
   height:45px;
 }
 
-
-.hhamitems{
-  display: none;
-  position: absolute;
-  background-color: #c30d4c;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  padding: 12px 16px;
-  z-index: 1;
+#main #hamitemss{
+  display:none;
 }
 
 
@@ -631,8 +628,27 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     padding: 10px;
   }
 
+  #main #hamitemss{
+     height: 40px;
+  line-height: 43px;
+  margin:3px;
+  padding: 0px 22px;
+  display:flex;
+  font-size:0.8em;
+text-transform: uppercase;
+font-weight: 500;
+letter-spacing: 1px;
+color:white;
+  }
+  
+  
+  
   #hamitems { display: none; }
-  #hamnav input:checked ~ #hamitems { display: block; }
+  #hamnav input:checked ~ #hamitemss { display: block; }
+  
+  
+  
+  
   
  .content{
     height: 90%;
