@@ -638,7 +638,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     height: 150vh;
     padding-top: 65%;
     display: flex;
-    width: 150vw;
+    width: 200vw;
     justify-content: space-around;
     background: #c30d4c;
     align-items: flex-end;
