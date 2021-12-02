@@ -94,7 +94,7 @@ a{
 }
 
 .content{
-  height: 90%;
+  height: 60%;
   padding-top:50%;
   display: flex;
   width:100%;
@@ -622,7 +622,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   #hamnav input:checked ~ #hamitems { display: block; }
   
  .content{
-    height: auto;
+    height: 90%;
     padding-top: 65%;
     display: flex;
     width: 100%;
