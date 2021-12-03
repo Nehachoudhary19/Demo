@@ -743,6 +743,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     /* padding-right: 10%; */
 
   .services p{
+    text-align: justify;
     line-height: 7vw;
     padding-left: 17%;
     padding-top: 1%;
@@ -793,6 +794,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
   .seo .text p{
     padding-top: 2vw;
+    text-align: justify;
   }
   
 .seo .text h2 {
@@ -845,6 +847,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   }
 
   .aboutus p {
+    text-align: justify;
     padding-top: 2vw;
     font-size: inherit;
     line-height: inherit;
@@ -873,6 +876,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
  .contactus .text1 #tohide p{
    display:inherit;
+   text-align: justify;
     line-height: 6vw;
 }
   
