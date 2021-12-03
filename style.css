@@ -654,8 +654,8 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
  .content{
    position: absolute;
-        height: 160vh;
-    padding-top: 65%;
+        height: 146vh;
+    margin-top: 0vh;
     display: block;
     width: 100vw;
     justify-content: space-around;
@@ -663,6 +663,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     align-items: flex-end;
     padding-bottom: 9%;
     transform: translate(-50%, -50%);
+   padding-top: 35vh;
   }
   
   .content .image{
@@ -690,7 +691,7 @@ width: 55vw;
   
   .p_btn{
  margin-left: 20vw;
-    margin-top: -8vh;
+    margin-top: -15vh;
   width: 50vw;
   height: 8vh;
   display: flex;
@@ -701,8 +702,8 @@ width: 55vw;
   }
   
 .content .image img{
- width: 60vw;
-    height: 34vh;
+ width: 52vw;
+    height: 30vh;
     object-fit: contain;
     padding-right: 0vh;
     padding-top: 0vh;
