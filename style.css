@@ -615,7 +615,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   body{
     width: 100vw;
     height: 100vh;
-    font-size: 5vw;
+    font-size: 4vw;
   }
   
   
@@ -686,7 +686,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
  margin-left: 20vw;
     margin-top: -10vh;
   width: 50vw;
-  height: 10vh;
+  height: 8vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -781,7 +781,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     margin-left: 0vh;
     margin-right: 0vh;
     width: 100vw;
-    text-align: center;
+    text-align: left;
   }
   
   .seo .image2{
@@ -809,8 +809,8 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 }
   
   .container2 {
-    padding-top: 6%;
-   /* box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);*/
+   padding-top: 6%;
+    box-shadow: none;
     margin-left: 0vw;
     margin-right: 0vw;
     margin-top: 6vh;
@@ -819,7 +819,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
   .container2 .flex-container {
     display: block;
-    width: 70vw;
+    width: 68vw;
     text-align: center;
     margin-left: 0vw;
     margin-right: 0vw;
@@ -831,6 +831,15 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     margin-left: 27%;
     padding-left: 20%;
     padding-bottom: 7%;
+    font-size: 3vh;
+    font-weight: bold;
+}
+  
+  .container2 .flex-container h2 {
+    text-align: center;
+    color: #c30d4c;
+    text-shadow: 2px 2px 8px;
+    font-size: 6vh;
 }
   
  .aboutus .image3 img {
@@ -847,11 +856,11 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 }
   
 .aboutus{
-  display:block;
-  margin-left: 5vh;
+  display: block;
+    margin-left: 0vh;
     margin-right: 0vh;
-  width: 130vw;
-    text-align: center;
+    width: 100vw;
+    text-align: left;
   }
 
   .aboutus p {
