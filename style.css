@@ -762,11 +762,11 @@ width: 55vw;
   }
   
   .services .flex-container{
-  display: inherit;
+ display: inherit;
     margin-left: 0vw;
-    padding-top: 3vh;
+    padding-top: 2vh;
     padding-left: 0vw;
-    padding-bottom: 5vh;
+    padding-bottom: 1vh;
     margin-right: 1vw;
 }
   .services img{
