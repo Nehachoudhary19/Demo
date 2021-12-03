@@ -616,6 +616,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     width: 100vw;
     height: 100vh;
     font-size: 4vw;
+    position:fixed;
   }
   
   
