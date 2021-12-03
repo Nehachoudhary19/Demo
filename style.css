@@ -133,6 +133,11 @@ a{
   margin-left:3%;
 }
 
+
+.p_btn{
+  display:none;
+}
+
 .r_btn{
   margin-left:5%;
   margin-top:2%;
@@ -605,7 +610,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 
 
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 600px){
   
   body{
     width: 150vw;
@@ -642,10 +647,10 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
  .content{
     position: absolute;
-    height: 100%;
+    height: 150vh;
     padding-top: 65%;
     display: flex;
-    width: 100%;
+    width: 200vw;
     justify-content: space-around;
     background: #c30d4c;
     align-items: flex-end;
@@ -654,8 +659,11 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   }
   
   .content .image{
-  width:250px;
-  height: 250px;
+ /* width:250px;
+  height: 250px;*/
+    width: 55vw;
+    height: 45vh;
+  margin-left: 85vw;
 }
 
   .main-text h1{
@@ -668,19 +676,26 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   
  .r_btn{
   width: 115px;
-    height: 40px
+    height: 40px;
+      display: none;
+  }
+  
+  .p_btn{
+    width: 115px;
+    height: 40px;
   }
   
 .content .image img{
-  width:100%;
-  height:100%;
-  object-fit: contain;
-  padding-right:5%;
-  padding-top:32%;
+  width: 85vw;
+    height: 50vh;
+    object-fit: contain;
+    padding-right: 0vh;
+    padding-top: 0vh;
 }
   
  .main-text {
-   margin-top:10%;
+  padding-left: 100vw;
+    padding-top: 30vh;
   }
   
  .main-text p{
