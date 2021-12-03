@@ -665,11 +665,10 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   }
   
   .content .image{
- /* width:250px;
-  height: 250px;*/
-    width: 55vw;
+width: 55vw;
     height: 45vh;
-  margin-left: 85vw;
+    margin-left: 45vw;
+    padding-left: 40vw;
 }
 
   .main-text h1{
