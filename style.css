@@ -681,7 +681,7 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   }
   
   .p_btn{
-  margin-left:5%;
+  margin-left:100vw;
   margin-top:2%;
   width:190px;
   height:44px;
@@ -721,8 +721,9 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
 }
   
   .container .div1{
-        margin-top: 20%;
-        padding-top:16%;
+        margin-top: 35vh;
+    padding-top: 12vh;
+    padding-bottom: 5vh;
   }
   
   .container .div1 h3 {
@@ -734,16 +735,18 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   }
   
   .services {
-    
-    padding-bottom: 10%;
+    padding-bottom: 10vh;
     align-items: center;
-    /* padding-right: 10%; */
+    padding-top: 10vh;
 }
+    /* padding-right: 10%; */
+
   .services p{
-    line-height:15px;
+    line-height: 7vw;
     padding-left: 17%;
     padding-top: 1%;
-    text-align: left;
+    width: 130vw;
+  /*  text-align: left;*/
   }
   
   .services .flex-container{
@@ -771,6 +774,8 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   display: block;
     margin-left: 0%;
     margin-right: 0%;
+    width: 130vw;
+    text-align: center;
   }
   
   .seo .image2{
@@ -802,7 +807,13 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   }
   
   .container2 .flex-container {
-    display: inherit;
+    display: block;
+    width: 130vw;
+    text-align: center;
+    margin-left: 0vw;
+    margin-right: 0vw;
+    padding-left: 0vw;
+    padding-right: 50vw;
   }
   
   .container2 .flex-container div {
@@ -828,6 +839,8 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
   display:block;
   margin-left: 0%;
     margin-right: 0%;
+  width: 130vw;
+    text-align: center;
   }
 
   .aboutus p {
@@ -843,6 +856,20 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     font-size: 4vw;
   }
  
+  .contactus{
+    padding-top: 0vw;
+    margin-left: 7vw;
+    margin-right: 0vw;
+    margin-top: 5vh;
+    display: flex;
+    padding-left: 0vw;
+    padding-right: 0vw;
+    line-height: 7vw;
+    width: 130vw;
+    text-align: center;
+  }
+  
+  
  .contactus .text1 #tohide p{
    display:inherit;
    font-size: 4vw;
