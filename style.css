@@ -749,17 +749,27 @@ width: 55vw;
     align-items: center;
     padding-top: 1vh;
     width: 95vw;
-    margin-left: -5vh;
+    margin-left: 0vh;
 }
     /* padding-right: 10%; */
 
   .services p{
     text-align: justify;
     line-height: 7vw;
-    padding-left: 17%;
+   padding-left: 8vw;
     padding-top: 1%;
     width: 95vw;
   /*  text-align: left;*/
+  }
+  
+  .services h1{
+    text-align: left;
+    margin-left: 4vh;
+  }
+  
+  .services h2{
+    text-align: left;
+    margin-left: 4vh;
   }
   
   .services .flex-container{
