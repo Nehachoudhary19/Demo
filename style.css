@@ -40,9 +40,7 @@ z-index: 2;
     width:100vw;
 }
 
-#hamitemss{
-  display:none;
-  ]
+
 
 #hamitems { display: flex; }
 #hamitems a {
@@ -624,12 +622,8 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     padding-left: 0vw;
     padding-right: 0vw;
   }
-  
-#hamitems{
-  display:none;
-  }
-  
-  #hamitemss a {
+ 
+  #hamitems a {
     box-sizing: border-box;
     display: block;
     width: 100%;
@@ -649,8 +643,8 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
  
   
   
-  #hamitemss { display: none; }
-  #hamnav input:checked ~  #hamitemss { display: block; }
+  #hamitems { display: none; }
+  #hamnav input:checked ~  #hamitems { display: block; }
   
   
   
