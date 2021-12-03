@@ -617,6 +617,10 @@ box-shadow: 5px 10px 30px rgb(0 0 0 / 30%);
     height: 100vh;
     font-size: 4vw;
     position:absolute;
+    margin-right: 0vw;
+    margin-left: 0vw;
+    padding-left: 0vw;
+    padding-right: 0vw;
   }
   
   
